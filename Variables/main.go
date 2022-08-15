@@ -33,7 +33,6 @@ func main() {
 	noOfUsers := 10
 	fmt.Println(noOfUsers)
 	fmt.Printf("Variable %d is of type %T \n", noOfUsers, noOfUsers)
-
 	fmt.Printf("Variable %s is of type %T \n", Token, Token)
 
 }
